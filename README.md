@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Leomueller
+- 👀 I’m interested in programming and learning new Stuff
+- 🌱 I’m currently learning C# at the austrian technical collage called "htl donaustadt"
+- 📫 How to reach me Email: leomueller31082004@gmail.com Instagram: leo_muell
+-                     buymeacoffee.com/leomue                
